@@ -46,6 +46,6 @@
 //     aextraire= phrase.substr(i,1);
 
 // if (aextraire == lettreT) {// si dans la phrase ya la lettre saisie par l'U 
-//     compteurL++; }//alors le compteur compte combien yen a 
+//     compteurL++; }//alors le compteur compte combien y en a 
 // }
 // console.log(compteurL);
